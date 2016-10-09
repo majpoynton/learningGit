@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/majpoynton/something.git
+git push -u origin master
+git pull origin master
